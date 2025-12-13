@@ -1,0 +1,13 @@
+{
+    "geode": "4.0.0",
+    "gd": {
+        "android": "2.206",
+        "win": "2.206"
+    },
+    "id": "dainamondev.levelrecommender",
+    "name": "Level Recommender",
+    "version": "v1.0.0",
+    "developer": "DainamonDev",
+    "description": "Recomienda 20 niveles buenos para jugar",
+    "repository": "https://github.com/cesarMorales228/gd-level-recommender"
+}
